@@ -1,0 +1,12 @@
+{
+  "name": "lit-ssr-sandbox",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "@lit-labs/ssr": "^3.1.1",
+    "lit": "^2.7.2"
+  }
+}
